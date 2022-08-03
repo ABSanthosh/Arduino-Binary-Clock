@@ -1,0 +1,7 @@
+{
+    "configuration": "cpu=atmega328",
+    "board": "arduino:avr:nano",
+    "programmer": "arduino:avrisp",
+    "port": "/dev/ttyUSB0",
+    "sketch": "ShiftRegisterTest/sketch_aug03a.ino"
+}
